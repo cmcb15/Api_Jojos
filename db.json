@@ -1,0 +1,23 @@
+{
+    "tipos":[
+    {
+        "id":1,
+        "nombre":"Comida Rapida"
+    },
+    {
+        "id":2,
+        "nombre":"Pastas y Pizzas"
+    },
+    {
+        "id":3,
+        "nombre":"Comida Rapida"
+    },
+    {
+        "id":4,
+        "nombre":"Pollo"
+    },
+    {
+        "id":5,
+        "nombre":"Pescado y Mariscos"
+    }
+]}
